@@ -1,0 +1,2 @@
+# Determining-the-simultaneity-factor-of-electricity-consumption-distribution-level
+In this repository, we use deep learning approaches to detect the simultaneity factor in electricity consumption distribution levels in Iran. The code for this analysis can be found in the 'article-features.ipynb' file. Please note that the dataset used contains confidential information about electricity consumption in Tehran and cannot be shared due to privacy concerns.
